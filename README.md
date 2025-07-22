@@ -5,3 +5,14 @@ This project aims to develop a machine learning model to predict the price of a 
 3. Number of bathrooms
 4. Number of store rooms
 5. Number of parking spaces
+
+project_folder/
+│
+├── app.py
+├── model.pkl
+├── requriments.txt
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+│   └── Script.js
