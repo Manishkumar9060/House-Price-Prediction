@@ -6,13 +6,13 @@ This project aims to develop a machine learning model to predict the price of a 
 4. Number of store rooms
 5. Number of parking spaces
 
-project_folder/
-│
-├── app.py
-├── model.pkl
-├── requriments.txt
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-│   └── Script.js
+### project_folder/
+1. │
+2. ├── app.py
+3. ├── model.pkl
+4. ├── requriments.txt
+5. ├── templates/
+6. │   └── index.html
+7. ├── static/
+8. │   └── style.css
+9. │   └── Script.js
